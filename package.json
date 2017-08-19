@@ -1,0 +1,17 @@
+{
+  "name": "functional-electron-menu",
+  "version": "1.0.0-0",
+  "description": "An electron menu creator function for stateful application menus",
+  "main": "index.js",
+  "scripts": {
+    "test": "nyc ava"
+  },
+  "keywords": [],
+  "author": "Brent Jackson",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.22.0",
+    "electron": "^1.7.5",
+    "nyc": "^11.1.0"
+  }
+}
