@@ -1,6 +1,6 @@
 {
   "name": "functional-electron-menu",
-  "version": "1.0.0-1",
+  "version": "1.0.0",
   "description": "An electron menu creator function for stateful application menus",
   "main": "index.js",
   "scripts": {
